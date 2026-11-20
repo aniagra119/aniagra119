@@ -43,4 +43,4 @@ flowchart LR
 | [`BookMyShowLLDDesign`](https://github.com/aniagra119/BookMyShowLLDDesign) | Seat-lock TTL concurrency, show-seat state machine & dynamic pricing | 15 JUnit 5 |
 | [`ElevatorLLDDesign`](https://github.com/aniagra119/ElevatorLLDDesign) | Multi-car LOOK/SCAN scheduling & hardware safety state machine | 35 JUnit 5 |
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/anirudh119/) · [LeetCode (140 solved / 1,280+ total DSA)](https://leetcode.com/u/Anirudh119/)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/anirudh119/) · [LeetCode (133+ LeetCode / 950+ total DSA)](https://leetcode.com/u/Anirudh119/)
